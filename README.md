@@ -155,4 +155,4 @@ projet-defaillances/
 
 **Auteure :** Salma Alaoui Mrani, Master 2 Big Data, Analyse et Business Intelligence, Université Sorbonne Paris Nord
 
-*Données : Banque de France, Webstat (jeu DIREN). Réutilisées avec citation de la source.*
+*Données : Banque de France, Webstat (jeu DIREN).*

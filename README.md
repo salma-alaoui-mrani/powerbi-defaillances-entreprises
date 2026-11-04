@@ -4,8 +4,8 @@ Tableau de bord Power BI sur les défaillances d'entreprises en France, par sect
 
 **Question métier :** dans quels secteurs et dans quelles régions les entreprises font-elles le plus défaillance, et le risque s'aggrave-t-il ? C'est une question centrale pour le **risque de crédit** : une entreprise défaillante ne rembourse plus ses prêts.
 
-![Page 1 : vue d'ensemble](images/page1_vue_ensemble.png)
-![Page 2 : secteurs et régions](images/page2_secteurs_regions.png)
+![Page 1 : vue d'ensemble](Vue_d'ensemble.png)
+![Page 2 : secteurs et régions](Secteurs_et_régions.png)
 
 ---
 
@@ -147,15 +147,9 @@ Une page masquée du rapport (« Contrôles ») sert à recouper les mesures :
 projet-defaillances/
 ├── README.md
 ├── defaillances_entreprises.pbix
-├── data/
-│   └── Webstat_Export_fr_DIREN.csv
-├── template/
-│   ├── theme_dark.json
-│   ├── dark_page1_v2.png
-│   └── dark_page2_v2.png
-└── images/
-    ├── page1_vue_ensemble.png
-    └── page2_secteurs_regions.png
+├── Webstat_Export_fr_DIREN.csv
+├── page1_vue_ensemble.png
+└── page2_secteurs_regions.png
 ```
 
 ---
